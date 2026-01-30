@@ -1,0 +1,5 @@
+{
+  "name": "AutoTranscribe",
+  "description": "Automotive invoice translation system using Extraction-Reconstruction pattern to convert English invoices to Spanish with domain-specific accuracy.",
+  "requestFramePermissions": []
+}
